@@ -18,4 +18,3 @@
 * Wasp
 * Antman
 * Pete Pot
-* The Thing
